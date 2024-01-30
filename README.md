@@ -42,7 +42,6 @@
 
 - 🔭 I’m currently working on TimeSeries Forcasting (Pytorch)
 - 👯 I’m looking to collaborate on (flutter/js projects)
-- ⚡ Fun fact: No Binary No Assembly im LLM(Large Language Model) (>.<)
 
 ## Main Skills
 
@@ -51,7 +50,7 @@
 > - BackEnd : Django - flask - expressjs - laravel(2sites)
 > - FrontEnd : Flutter (Mobile/desktop) - React(web)
 > - Databases : Sql/sqlite - Firebase - Familiar with framworks ORMs too
-> - Flutter Framword: StateManegment(Bloc+GetX)+Dependency Injection(Getit)+ DB(hive/sqlite/firebase) + familiar with Apis/Dio/notification and Background services
+> - Flutter Framwork : StateManegment(Bloc+GetX)+Dependency Injection(Getit)+ DB(hive/sqlite/firebase) + familiar with Apis/Dio/notification and Background services
 
 #
 
