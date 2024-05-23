@@ -29,6 +29,13 @@
 - 🔭 I’m currently working on TimeSeries Forcasting (Pytorch)
 - 👯 I’m looking to collaborate on (flutter/nextjs-Typscript) projects
 
+## Some of my works 
+- Blog : [https://seyf1elislam.netlify.app/](https://seyf1elislam.netlify.app/)
+- Potfolio : [https://seyf1elislam.netlify.app/portfolio](https://seyf1elislam.netlify.app/portfolio)
+- store landing page : [https://nexu-shoe-store.netlify.app/](https://nexu-shoe-store.netlify.app/)
+- Tech Landing page : [https://tunes-team.netlify.app/](https://tunes-team.netlify.app/)
+
+
 ## Main Skills
 
 > - Deep Learning (pytorch) + Data Science (Python)
