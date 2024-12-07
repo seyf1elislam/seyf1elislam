@@ -1,12 +1,17 @@
 <h2 align="center">(^.^) [  Python |  Js/Ts  |  Dart ] (^.^) </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=seyf1elislam" height="150" alt="stats"  />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=seyf1elislam" height="150" alt="languages"  /> -->
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyf1elislam" height="150"   />
 </div>
 
+<!--
+ <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=seyf1elislam" height="150" alt="stats"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=seyf1elislam" height="150" alt="languages"  /> -->
+
 ## Who ?
+
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=seyf1elislam">
 
 > Hamzi Oussama Seyf Elislam - Full Stack Developer , Junior AI Engineer ( Master's Degree - Artificial Intelligence )
 
@@ -29,12 +34,35 @@
 - 🔭 I’m currently working on TimeSeries Forcasting (Pytorch)
 - 👯 I’m looking to collaborate on (flutter/nextjs-Typscript) projects
 
-## Some of my works 
+# My GitHub Repositories
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="flex: 0 1 calc(50% - 5px);">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=LocalLLM_OneClick_Colab&theme=dracula" alt="LocalLLM_OneClick_Colab">
+  </div>
+  <div style="flex: 0 1 calc(50% - 5px);">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=obsidian-LocalMediaEmbedder-plugin&theme=dracula" alt="obsidian-LocalMediaEmbedder-plugin">
+  </div>
+  <div style="flex: 0 1 calc(50% - 5px);">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=flutter_common_extensions&theme=dracula" alt="flutter_common_extensions">
+  </div>
+  <div style="flex: 0 1 calc(50% - 5px);">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=Colab_Launcher_for_GitHub_ChromExtension&theme=dracula" alt="Colab_Launcher_for_GitHub_ChromExtension">
+  </div>
+  <div style="flex: 0 1 calc(50% - 5px);">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=fake_openai_endpoint_ts&theme=dracula" alt="fake_openai_endpoint_ts">
+  </div>
+  <div style="flex: 0 1 calc(50% - 5px);">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=UMS-Linear&theme=dracula" alt="UMS-Linear">
+  </div>
+</div>
+
+## Some works
+
 - Blog : [https://seyf1elislam.netlify.app/](https://seyf1elislam.netlify.app/)
 - Potfolio : [https://seyf1elislam.netlify.app/portfolio](https://seyf1elislam.netlify.app/portfolio)
 - store landing page : [https://nexu-shoe-store.netlify.app/](https://nexu-shoe-store.netlify.app/)
 - Tech Landing page : [https://tunes-team.netlify.app/](https://tunes-team.netlify.app/)
-
 
 ## Main Skills
 
@@ -46,6 +74,7 @@
 > - Flutter Framework : StateManegment(Bloc(myfav)+GetX+provider)+Dependency Injection(Getit)+ DB(hive/sqlite/firebase) + familiar with Apis/Dio/notification and Background services
 > - Nextjs : Familiar with SSR/SSG/ISR + API routes + Auth + DB + TailwindCSS
 > - React : Familiar with ContextAPI/Redux + Hooks + Router + zustand + TailwindCSS
+
 ## 💻 Tech Stack:
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -57,8 +86,8 @@
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![zuustand](https://img.shields.io/badge/zustand-%23593d88.svg?style=for-the-badge&logo=zustand&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
@@ -70,12 +99,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -95,4 +124,3 @@
 <img src="https://github.com/seyf1elislam/seyf1elislam/blob/main/snake.svg" alt="-" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=seyf1elislam&label=views&color=0e75b6&style=flat" alt="seyf1elislam" style="display:none"/> </p>
-
