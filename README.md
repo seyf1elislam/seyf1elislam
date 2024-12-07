@@ -35,26 +35,21 @@
 - 👯 I’m looking to collaborate on (flutter/nextjs-Typscript) projects
 
 # My GitHub Repositories
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="flex: 0 1 calc(50% - 5px);">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=LocalLLM_OneClick_Colab&theme=dracula" alt="LocalLLM_OneClick_Colab">
-  </div>
-  <div style="flex: 0 1 calc(50% - 5px);">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=obsidian-LocalMediaEmbedder-plugin&theme=dracula" alt="obsidian-LocalMediaEmbedder-plugin">
-  </div>
-  <div style="flex: 0 1 calc(50% - 5px);">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=flutter_common_extensions&theme=dracula" alt="flutter_common_extensions">
-  </div>
-  <div style="flex: 0 1 calc(50% - 5px);">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=Colab_Launcher_for_GitHub_ChromExtension&theme=dracula" alt="Colab_Launcher_for_GitHub_ChromExtension">
-  </div>
-  <div style="flex: 0 1 calc(50% - 5px);">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=fake_openai_endpoint_ts&theme=dracula" alt="fake_openai_endpoint_ts">
-  </div>
-  <div style="flex: 0 1 calc(50% - 5px);">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=UMS-Linear&theme=dracula" alt="UMS-Linear">
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=LocalLLM_OneClick_Colab&theme=dracula" alt="LocalLLM_OneClick_Colab"></td>
+      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=obsidian-LocalMediaEmbedder-plugin&theme=dracula" alt="obsidian-LocalMediaEmbedder-plugin"></td>
+    </tr>
+    <tr>
+      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=flutter_common_extensions&theme=dracula" alt="flutter_common_extensions"></td>
+      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=Colab_Launcher_for_GitHub_ChromExtension&theme=dracula" alt="Colab_Launcher_for_GitHub_ChromExtension"></td>
+    </tr>
+    <tr>
+      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=fake_openai_endpoint_ts&theme=dracula" alt="fake_openai_endpoint_ts"></td>
+      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=UMS-Linear&theme=dracula" alt="UMS-Linear"></td>
+    </tr>
+  </table>
 </div>
 
 ## Some works
