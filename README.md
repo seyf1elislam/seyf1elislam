@@ -13,13 +13,12 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=seyf1elislam">
 
-> Hamzi Oussama Seyf Elislam - Full Stack Developer , Junior AI Engineer ( Master's Degree - Artificial Intelligence )
+> Hamzi Oussama Seyf Elislam - Full Stack Web Developer , Junior AI Engineer ( Master's Degree in Artificial Intelligence )
 
 ## How to Contact me ?
 
 <div align="center">
 
-<!-- [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=Facebook&logoColor=white)](https://fb.me/seyf1elislam) -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23ff4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/seyf1elislam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyf1eislam)
@@ -29,35 +28,15 @@
 
 </div>
 
-## Info ?
+## Currently
+- ~🔭 I’m currently working on Time Series Forecasting using PyTorch.~
+- ~👯 I’m looking to collaborate on projects involving Python (preferably AI), Next.js with TypeScript, or Flutter.~
+- 😥 Unfortunately, I’m unavailable for collaboration at the moment.
 
-- 🔭 I’m currently working on TimeSeries Forcasting (Pytorch)
-- 👯 I’m looking to collaborate on (flutter/nextjs-Typscript) projects
+## Personal site  
+- Blog : [https://seyf1elislam.netlify.app/](https://seyf1elislam.netlify.app/en)
+- Potfolio : [https://seyf1elislam.netlify.app/portfolio](https://seyf1elislam.netlify.app/en/portfolio)
 
-# My GitHub Repositories
-<div align="center">
-  <table>
-    <tr>
-      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=LocalLLM_OneClick_Colab&theme=dracula" alt="LocalLLM_OneClick_Colab"></td>
-      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=obsidian-LocalMediaEmbedder-plugin&theme=dracula" alt="obsidian-LocalMediaEmbedder-plugin"></td>
-    </tr>
-    <tr>
-      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=flutter_common_extensions&theme=dracula" alt="flutter_common_extensions"></td>
-      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=Colab_Launcher_for_GitHub_ChromExtension&theme=dracula" alt="Colab_Launcher_for_GitHub_ChromExtension"></td>
-    </tr>
-    <tr>
-      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=fake_openai_endpoint_ts&theme=dracula" alt="fake_openai_endpoint_ts"></td>
-      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=UMS-Linear&theme=dracula" alt="UMS-Linear"></td>
-    </tr>
-  </table>
-</div>
-
-## Some works
-
-- Blog : [https://seyf1elislam.netlify.app/](https://seyf1elislam.netlify.app/)
-- Potfolio : [https://seyf1elislam.netlify.app/portfolio](https://seyf1elislam.netlify.app/portfolio)
-- store landing page : [https://nexu-shoe-store.netlify.app/](https://nexu-shoe-store.netlify.app/)
-- Tech Landing page : [https://tunes-team.netlify.app/](https://tunes-team.netlify.app/)
 
 ## Main Skills
 
@@ -113,6 +92,24 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+# My GitHub Repositories
+<div align="center">
+  <table>
+    <tr>
+      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=LocalLLM_OneClick_Colab&theme=dracula" alt="LocalLLM_OneClick_Colab"></td>
+      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=obsidian-LocalMediaEmbedder-plugin&theme=dracula" alt="obsidian-LocalMediaEmbedder-plugin"></td>
+    </tr>
+    <tr>
+      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=flutter_common_extensions&theme=dracula" alt="flutter_common_extensions"></td>
+      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=Colab_Launcher_for_GitHub_ChromExtension&theme=dracula" alt="Colab_Launcher_for_GitHub_ChromExtension"></td>
+    </tr>
+    <tr>
+      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=fake_openai_endpoint_ts&theme=dracula" alt="fake_openai_endpoint_ts"></td>
+      <td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=seyf1elislam&repo=UMS-Linear&theme=dracula" alt="UMS-Linear"></td>
+    </tr>
+  </table>
+</div>
 
 #
 
