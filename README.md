@@ -1,10 +1,18 @@
-<h2 align="center">(^.^) [  Python |  Js/Ts  |  Dart ] (^.^) </h2>
+<h2 align="center"> Python |  Js/Ts  |  Dart </h2>
+<br><br>
 
+<p align="center">
+  <b>"Programs must be written for people to read, and incidentally for machines to execute."</b><br>
+  
+</p>
+
+<br><br>
+ <!--
 <div align="center">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyf1elislam" height="150"   />
-</div>
 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyf1elislam" height="150"   />
+</div>
+-->
 <!--
  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=seyf1elislam" height="150" alt="stats"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=seyf1elislam" height="150" alt="languages"  /> -->
@@ -29,9 +37,8 @@
 </div>
 
 ## Currently
-- ~🔭 I’m currently working on Time Series Forecasting using PyTorch.~
-- ~👯 I’m looking to collaborate on projects involving Python (preferably AI), Next.js with TypeScript, or Flutter.~
-- 😥 Unfortunately, I’m unavailable for collaboration at the moment.
+- 👯 I’m looking to collaborate on projects involving Python (preferably AI,Pytorch..), Next.js with TypeScript, or Flutter. 
+- 🤗 I’m available for collaboration at the moment.
 
 ## Personal site  
 - Blog : [https://seyf1elislam.netlify.app/](https://seyf1elislam.netlify.app/en)
