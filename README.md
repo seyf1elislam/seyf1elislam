@@ -1,4 +1,4 @@
-<h2 align="center"> Python |  Js/Ts  |  Dart </h2>
+<h2 align="center">  AI Engineer | Full Stack Developer </h2>
 <br><br>
 
 <p align="center">
